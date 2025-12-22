@@ -8,7 +8,8 @@ This project explores two datasets using Python and pandas, and visualizes them 
 
 ## Plot 1: Bookings Data (Scatter Plot)
 
-![Bookings Scatter Plot](Bookings_plot.png)
+![Bookings Scatter Plot](Booking<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/59ff41ba-3854-43f9-bd4c-09a0a3a72ae4" />
+s_plot.png)
 
 This scatter plot visualizes the Bookings dataset, which contains data on Uber bookings and cancellations. Each point represents a booking, allowing us to see patterns and trends in cancellations versus completed bookings. The x-axis and y-axis are clearly labeled to make the relationship between the variables easy to interpret.
 
